@@ -1,0 +1,21 @@
+
+body{
+	background:#48DD53;
+}
+
+
+.login{
+	width: 400px;
+	height: 370px;
+	background:#FFFFFF;
+	text-align: center;
+ float: left;
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+ padding: 10px;
+
+}
+

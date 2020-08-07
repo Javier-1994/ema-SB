@@ -1,0 +1,12 @@
+#principal{
+	width: 400px;
+	margin: 0 auto;
+}
+h1{
+	text-align: center;
+	color: #1889DA;
+}
+table tr td{
+	width: 10%;
+	text-align: center;
+}
